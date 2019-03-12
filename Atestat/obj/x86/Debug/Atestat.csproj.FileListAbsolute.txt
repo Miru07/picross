@@ -1,0 +1,93 @@
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\obj\x86\Debug\Atestat.Form1.resources
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\obj\x86\Debug\Atestat.Properties.Resources.resources
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\bin\Debug\Atestat.exe
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\bin\Debug\Atestat.pdb
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\obj\x86\Debug\Atestat.exe
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\obj\x86\Debug\Atestat.pdb
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\obj\x86\Debug\Atestat.Form2.resources
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\obj\x86\Debug\Atestat.Form3.resources
+C:\Users\user\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.exe
+C:\Users\user\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.pdb
+C:\Users\user\Desktop\Atestat\Atestat\bin\Debug\Atestat.exe
+C:\Users\user\Desktop\Atestat\Atestat\bin\Debug\Atestat.pdb
+C:\Users\user\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.Form1.resources
+C:\Users\user\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.Form2.resources
+C:\Users\user\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.Form3.resources
+C:\Users\user\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.Properties.Resources.resources
+C:\Users\user\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.Form4.resources
+C:\Users\user\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.Formu2.resources
+C:\Users\user\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.Formu3.resources
+C:\Users\user\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.Formu4.resources
+C:\Users\user\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.Formm1.resources
+C:\Users\user\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.Formm2.resources
+C:\Users\user\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.Formm3.resources
+C:\Users\user\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.Formm4.resources
+C:\Users\user\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.Forma1.resources
+C:\Users\user\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.Forma2.resources
+C:\Users\user\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.Forma3.resources
+C:\Users\user\Desktop\Atestat\Atestat\obj\x86\Debug\Atestat.Forma4.resources
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\obj\x86\Debug\Atestat.Form4.resources
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\obj\x86\Debug\Atestat.Forma1.resources
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\obj\x86\Debug\Atestat.Forma2.resources
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\obj\x86\Debug\Atestat.Forma3.resources
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\obj\x86\Debug\Atestat.Forma4.resources
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\obj\x86\Debug\Atestat.Formm1.resources
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\obj\x86\Debug\Atestat.Formm2.resources
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\obj\x86\Debug\Atestat.Formm3.resources
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\obj\x86\Debug\Atestat.Formm4.resources
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\obj\x86\Debug\Atestat.Formu2.resources
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\obj\x86\Debug\Atestat.Formu3.resources
+M:\ATESTAT-Dinu Miruna\Atestat\Atestat\obj\x86\Debug\Atestat.Formu4.resources
+C:\Users\user\Desktop\C#\Atestat\Atestat\obj\x86\Debug\Atestat.exe
+C:\Users\user\Desktop\C#\Atestat\Atestat\obj\x86\Debug\Atestat.pdb
+C:\Users\user\Desktop\M\Atestat\Atestat\bin\Debug\Atestat.exe
+C:\Users\user\Desktop\M\Atestat\Atestat\bin\Debug\Atestat.pdb
+C:\Users\user\Desktop\M\Atestat\Atestat\obj\x86\Debug\Atestat.csprojAssemblyReference.cache
+C:\Users\user\Desktop\M\Atestat\Atestat\obj\x86\Debug\Atestat.Form1.resources
+C:\Users\user\Desktop\M\Atestat\Atestat\obj\x86\Debug\Atestat.Form2.resources
+C:\Users\user\Desktop\M\Atestat\Atestat\obj\x86\Debug\Atestat.Form3.resources
+C:\Users\user\Desktop\M\Atestat\Atestat\obj\x86\Debug\Atestat.Form4.resources
+C:\Users\user\Desktop\M\Atestat\Atestat\obj\x86\Debug\Atestat.Forma1.resources
+C:\Users\user\Desktop\M\Atestat\Atestat\obj\x86\Debug\Atestat.Forma2.resources
+C:\Users\user\Desktop\M\Atestat\Atestat\obj\x86\Debug\Atestat.Forma3.resources
+C:\Users\user\Desktop\M\Atestat\Atestat\obj\x86\Debug\Atestat.Forma4.resources
+C:\Users\user\Desktop\M\Atestat\Atestat\obj\x86\Debug\Atestat.Formm1.resources
+C:\Users\user\Desktop\M\Atestat\Atestat\obj\x86\Debug\Atestat.Formm2.resources
+C:\Users\user\Desktop\M\Atestat\Atestat\obj\x86\Debug\Atestat.Formm3.resources
+C:\Users\user\Desktop\M\Atestat\Atestat\obj\x86\Debug\Atestat.Formm4.resources
+C:\Users\user\Desktop\M\Atestat\Atestat\obj\x86\Debug\Atestat.Formu2.resources
+C:\Users\user\Desktop\M\Atestat\Atestat\obj\x86\Debug\Atestat.Formu3.resources
+C:\Users\user\Desktop\M\Atestat\Atestat\obj\x86\Debug\Atestat.Formu4.resources
+C:\Users\user\Desktop\M\Atestat\Atestat\obj\x86\Debug\Atestat.Properties.Resources.resources
+C:\Users\user\Desktop\M\Atestat\Atestat\obj\x86\Debug\Atestat.csproj.GenerateResource.cache
+C:\Users\user\Desktop\M\Atestat\Atestat\obj\x86\Debug\Atestat.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\M\Atestat\Atestat\obj\x86\Debug\Atestat.exe
+C:\Users\user\Desktop\M\Atestat\Atestat\obj\x86\Debug\Atestat.pdb
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\bin\Debug\Atestat.exe
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\bin\Debug\Atestat.pdb
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\obj\x86\Debug\Atestat.csprojAssemblyReference.cache
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\obj\x86\Debug\Atestat.Form1.resources
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\obj\x86\Debug\Atestat.Form2.resources
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\obj\x86\Debug\Atestat.Form3.resources
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\obj\x86\Debug\Atestat.Form4.resources
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\obj\x86\Debug\Atestat.Forma1.resources
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\obj\x86\Debug\Atestat.Forma2.resources
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\obj\x86\Debug\Atestat.Forma3.resources
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\obj\x86\Debug\Atestat.Forma4.resources
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\obj\x86\Debug\Atestat.Formm1.resources
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\obj\x86\Debug\Atestat.Formm2.resources
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\obj\x86\Debug\Atestat.Formm3.resources
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\obj\x86\Debug\Atestat.Formm4.resources
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\obj\x86\Debug\Atestat.Formu2.resources
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\obj\x86\Debug\Atestat.Formu3.resources
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\obj\x86\Debug\Atestat.Formu4.resources
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\obj\x86\Debug\Atestat.Properties.Resources.resources
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\obj\x86\Debug\Atestat.csproj.GenerateResource.cache
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\obj\x86\Debug\Atestat.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\obj\x86\Debug\Atestat.exe
+C:\Users\user\Desktop\gitStuff\puzzle2\Atestat\obj\x86\Debug\Atestat.pdb

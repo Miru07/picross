@@ -1,0 +1,7 @@
+
+https://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.button.click(v=vs.110).aspx
+
+https://social.msdn.microsoft.com/Forums/windows/en-US/730bd8dc-f692-464a-aff5-2502ec38e1f0/check-whether-button-is-clicked-or-not-in-c?forum=winforms
+
+https://www.youtube.com/watch?v=zRBAz9g76e0
+http://stackoverflow.com/questions/3229690/changing-winform-button-text-color

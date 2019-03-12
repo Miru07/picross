@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8DFDF105-295C-4E31-86E8-039FCA6B140C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Atestat</RootNamespace>
+    <AssemblyName>Atestat</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forma1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forma1.Designer.cs">
+      <DependentUpon>Forma1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forma2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forma2.Designer.cs">
+      <DependentUpon>Forma2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forma3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forma3.Designer.cs">
+      <DependentUpon>Forma3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forma4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forma4.Designer.cs">
+      <DependentUpon>Forma4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formm1.Designer.cs">
+      <DependentUpon>Formm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formm2.Designer.cs">
+      <DependentUpon>Formm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formm3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formm3.Designer.cs">
+      <DependentUpon>Formm3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formm4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formm4.Designer.cs">
+      <DependentUpon>Formm4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formu2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formu2.Designer.cs">
+      <DependentUpon>Formu2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formu3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formu3.Designer.cs">
+      <DependentUpon>Formu3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formu4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formu4.Designer.cs">
+      <DependentUpon>Formu4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forma1.resx">
+      <DependentUpon>Forma1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forma2.resx">
+      <DependentUpon>Forma2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forma3.resx">
+      <DependentUpon>Forma3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forma4.resx">
+      <DependentUpon>Forma4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formm1.resx">
+      <DependentUpon>Formm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formm2.resx">
+      <DependentUpon>Formm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formm3.resx">
+      <DependentUpon>Formm3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formm4.resx">
+      <DependentUpon>Formm4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formu2.resx">
+      <DependentUpon>Formu2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formu3.resx">
+      <DependentUpon>Formu3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formu4.resx">
+      <DependentUpon>Formu4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check-mark-1292787_960_720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Screenshot %2815%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Screenshot %2816%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Screenshot %2819%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Screenshot %2820%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\m.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\r.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\alb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\mov.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\roz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\gu4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ru4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\a2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\v.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\v2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\v3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\bej.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\v4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\a4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\g1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\a6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\p.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\g3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\g2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\roz2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\v5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\a5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\maro2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\auriu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\v6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\visiniu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\a3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\r2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot %2849%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot %2859%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot %2860%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot %2861%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot %2862%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot %2884%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a111.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a112.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a42.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\u22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\u21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\u31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\u32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\u42.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\u41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\m12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\m11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\m22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\m21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\m32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\m31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\m42.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\m41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Confetti-PNG-Pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot %2893%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
